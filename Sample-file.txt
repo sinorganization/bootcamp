@@ -1,0 +1,2 @@
+this is additional text to create conflict
+hi these are the changes from bash
